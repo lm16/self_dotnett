@@ -1,0 +1,14 @@
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/bin/Debug/netcoreapp2.2/asp.deps.json
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/bin/Debug/netcoreapp2.2/asp.runtimeconfig.json
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/bin/Debug/netcoreapp2.2/asp.runtimeconfig.dev.json
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/bin/Debug/netcoreapp2.2/asp.dll
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/bin/Debug/netcoreapp2.2/asp.pdb
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.csprojAssemblyReference.cache
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.csproj.CoreCompileInputs.cache
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.RazorAssemblyInfo.cache
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.RazorAssemblyInfo.cs
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.AssemblyInfoInputs.cache
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.AssemblyInfo.cs
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.RazorTargetAssemblyInfo.cache
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.dll
+/media/lanmeng/L2/works-VSCode/DOTNET/asp/obj/Debug/netcoreapp2.2/asp.pdb
